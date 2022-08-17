@@ -1,7 +1,4 @@
 # SalesDataVisualization
-The dataset on SuperMarket Sales comprises of customers data which comprises of product Categories, Sub categories, Price and Quantity of the product a customer purchases. 
-The visualization took in 2 layers of granularity: General and Region Level. 
-In both these levels the count of customers, total sales and quantity are measured. In addition, analysis has been made with respect to categories and sub-categories.
-
-Power BI 
-Used to visualize the entire dataset. It used charts, aggregation and grouping and DAX to generate useful insights. 
+To understand the sales of products in a supermarket using Visualization tools with the help of Microsoft Power BI. The dataset comprises of CustomerName, State, City, Product Category, Sub Category, Quantity and Price of the goods. The analysis was made on two levels:
+1. General Insights- Total number of sales(in Million $), Quantity, Number of customers, Segment Wise and Category Wise analysis of Sales and Quantity, Top 5 states, cities and Sub Categories. 
+2. Region Level- Understanding the sales with respect to region, including State and City.
